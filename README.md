@@ -1,8 +1,8 @@
-### Hi, ich bin Jörn(https://www.casoon.de), ein leidenschaftlicher Autodidakt im Bereich Full Stack Web Development 🚀
+### Hi, ich bin Jörn, ein leidenschaftlicher Autodidakt im Bereich Full Stack Web Development 🚀
 
-- 🔭 Ich arbeite gerade an zu vielen Projekten :wink:;
-- 🌱 Ich beschäftige mich gerade mit Svelte Kit.
-- 💬 Frag mich nach irgendetwas, ich helfe gerne;
+- 🔭 Ich arbeite gerade an zu vielen Projekten :wink:
+- 🌱 Ich beschäftige mich gerade mit Svelte Kit
+- 💬 Frag mich nach irgendetwas, ich helfe gerne
 
 **Sprachen und Tools:**
 
@@ -35,6 +35,5 @@
 <img src="https://api.iconify.design/logos:kubernetes.svg?width=50&height=50" />
 
 
-📈 Meine GitHub Statistik
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casoon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
