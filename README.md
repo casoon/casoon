@@ -1,39 +1,69 @@
-### Hi, ich bin Jörn, ein leidenschaftlicher Autodidakt im Bereich Full Stack Web Development 🚀
+### Hi, ich bin Jörn 👋  
+#### 🧑‍💻 Full Stack Webentwickler | Freelancer | pragmatisch. neugierig. effizient.
 
-- 🔭 Ich arbeite gerade an zu vielen Projekten :wink:
-- 🌱 Ich beschäftige mich gerade mit Svelte Kit
-- 💬 Frag mich nach irgendetwas, ich helfe gerne
+Ich helfe Teams und Unternehmen dabei, aus Ideen robuste Webanwendungen zu bauen – mit Fokus auf moderne Tools, sauberen Code und langfristige Wartbarkeit.
 
-**Sprachen und Tools:**
+---
 
-<span></span>
-<img src="https://api.iconify.design/logos:javascript.svg?width=50&height=50" />
-<img src="https://api.iconify.design/logos:typescript-icon.svg?width=50&height=50" />
-<img src="https://api.iconify.design/vscode-icons:file-type-html.svg?width=50&height=50" />
-<img src="https://api.iconify.design/vscode-icons:file-type-css.svg?width=50&height=50" />
-<img src="https://api.iconify.design/logos:nodejs-icon.svg?width=50&height=50" />
-<img src="https://api.iconify.design/vscode-icons:file-type-mongo.svg?width=50&height=50" />
-<img src="https://api.iconify.design/logos:mysql.svg?width=50&height=50" />
-<img src="https://api.iconify.design/logos:redis.svg?width=50&height=50" />
+- 🧰 Freelancer für **maßgeschneiderte Weblösungen**
+- 🌐 Schwerpunkt: **Webentwicklung mit AstroJS, Svelte & Tailwind CSS**
+- 🧩 Baue native Desktop-Anwendungen mit **Tauri**
+- 🛠️ Interesse an **Rust** & **Go**, aber derzeit meist in **JavaScript/TypeScript** unterwegs – npm macht’s einfach 😉
+- 💬 Immer offen für Tech-Talks oder Projektanfragen – schreib mir gern!
 
-<span></span>
-<img src="https://api.iconify.design/logos:vue.svg?width=50&height=50" />
-<img src="https://api.iconify.design/logos:angular-icon.svg?width=50&height=50" />
-<img src="https://api.iconify.design/logos:svelte-icon.svg?width=50&height=50" />
-<img src="https://api.iconify.design/logos:koa.svg?width=50&height=50" />
-<img src="https://api.iconify.design/logos:express.svg?width=50&height=50" />
-<img src="https://api.iconify.design/logos:nestjs.svg?width=50&height=50" />
-<img src="https://api.iconify.design/simple-icons:fastify.svg?color=%23000000&width=50&height=50" />
+---
 
-<span></span>
-<img src="https://api.iconify.design/vscode-icons:file-type-vscode.svg?width=50&height=50" />
-<img src="https://api.iconify.design/logos:eslint.svg?width=50&height=50" />
-<img src="https://api.iconify.design/logos:prettier.svg?width=50&height=50" />
-<img src="https://api.iconify.design/logos:jest.svg?width=50&height=50" />
-<img src="https://api.iconify.design/logos:linux-tux.svg?width=50&height=50" />
-<img src="https://api.iconify.design/logos:docker-icon.svg?width=50&height=50" />
-<img src="https://api.iconify.design/logos:kubernetes.svg?width=50&height=50" />
+### 🧰 Tech Stack
 
+> Meine tägliche Werkzeugkiste:
 
+<span></span>  
+<img src="https://api.iconify.design/logos:javascript.svg?width=40&height=40" />
+<img src="https://api.iconify.design/logos:typescript-icon.svg?width=40&height=40" />
+<img src="https://api.iconify.design/logos:rust.svg?width=40&height=40" />
+<img src="https://api.iconify.design/logos:go.svg?width=40&height=40" />
+<img src="https://api.iconify.design/logos:astro-icon.svg?width=40&height=40" />
+<img src="https://api.iconify.design/logos:svelte-icon.svg?width=40&height=40" />
+<img src="https://api.iconify.design/logos:tailwindcss-icon.svg?width=40&height=40" />
+<img src="https://api.iconify.design/logos:tauri.svg?width=40&height=40" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casoon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<span></span>  
+<img src="https://api.iconify.design/logos:nodejs-icon.svg?width=40&height=40" />
+<img src="https://api.iconify.design/logos:express.svg?width=40&height=40" />
+<img src="https://api.iconify.design/logos:nestjs.svg?width=40&height=40" />
+<img src="https://api.iconify.design/vscode-icons:file-type-mongo.svg?width=40&height=40" />
+<img src="https://api.iconify.design/logos:mysql.svg?width=40&height=40" />
+<img src="https://api.iconify.design/logos:redis.svg?width=40&height=40" />
+
+<span></span>  
+<img src="https://api.iconify.design/logos:docker-icon.svg?width=40&height=40" />
+<img src="https://api.iconify.design/logos:kubernetes.svg?width=40&height=40" />
+<img src="https://api.iconify.design/logos:eslint.svg?width=40&height=40" />
+<img src="https://api.iconify.design/logos:prettier.svg?width=40&height=40" />
+<img src="https://api.iconify.design/logos:jest.svg?width=40&height=40" />
+<img src="https://api.iconify.design/logos:linux-tux.svg?width=40&height=40" />
+
+---
+
+### 📊 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casoon&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+![Jörn's GitHub stats](https://github-readme-stats.vercel.app/api?username=casoon&show_icons=true&theme=tokyonight)
+
+---
+
+### 🧠 Fun Facts
+
+- "Mal kurz was ausprobieren" endet oft in npm-Paketen oder Side Projects 😅  
+- Wenn’s Terminal nicht geht, fühlt sich was falsch an  
+- Ich automatisiere gerne Dinge, die andere lieber manuell machen würden  
+- Ich schreibe lieber klare READMEs als lange Mails
+
+---
+
+### 📫 Kontakt
+
+- 💼 **LinkedIn**: [linkedin.com/in/deinname](https://linkedin.com/in/deinname)  
+- 🐙 **GitHub**: [github.com/casoon](https://github.com/casoon)
+
+---
