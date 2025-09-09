@@ -3,7 +3,7 @@
 
 Über 20 Jahre Erfahrung in der Softwareentwicklung – von systemnaher Programmierung bis hin zu modernen Cloud- und Weblösungen. Mac-Nutzer aus Überzeugung, mit Fokus auf plattformübergreifende Entwicklung. Heute liegt mein Schwerpunkt auf Cloudlösungen, die Sicherheit und Robustheit vereinen, sowie auf dem produktiven Einsatz von KI in der Softwareentwicklung. 
 
- **Leitgedanke: ** Offenheit für Neues – und die Fähigkeit, auch mal Erfahrungen loszulassen – ist der Schlüssel für Fortschritt.
+ **Leitgedanke:** Offenheit für Neues – und die Fähigkeit, auch mal Erfahrungen loszulassen – ist der Schlüssel für Fortschritt.
 
 ---
 
