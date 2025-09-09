@@ -9,10 +9,10 @@ Für mich bedeutet Fortschritt, offen für Neues zu bleiben und auch einmal alte
 
 ---
 
-- 🧰 Freelancer für **maßgeschneiderte Weblösungen**
-- 🌐 Schwerpunkt: **Webentwicklung mit AstroJS, Svelte & Tailwind CSS**
-- 🧩 Baue native Desktop-Anwendungen mit **Tauri**
-- 🛠️ Interesse an **Rust** & **Go**, aber derzeit meist in **JavaScript/TypeScript** unterwegs – npm macht’s einfach 😉
+- 🧰 Freelancer, **der Komplexes einfach macht**
+- 🌐 Schwerpunkt: Web, Cloud & ein bisschen Magic ✨
+- 🧩 Technologie ist für mich Werkzeug, kein Selbstzweck
+- 🛠️ Experimentiere gern mit Rust & Go
 - 💬 Immer offen für Tech-Talks oder Projektanfragen – schreib mir gern!
 
 ---
