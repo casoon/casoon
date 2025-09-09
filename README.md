@@ -67,7 +67,7 @@ Für mich bedeutet Fortschritt, offen für Neues zu bleiben und auch einmal alte
 
 ### 📫 Kontakt
 
-- 💼 **LinkedIn**: [linkedin.com/in/deinname](https://linkedin.com/in/deinname)  
+- 💼 **LinkedIn**: [www.linkedin.com/in/casoon/](https://www.linkedin.com/in/casoon/)  
 - 🐙 **GitHub**: [github.com/casoon](https://github.com/casoon)
 
 ---
