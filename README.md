@@ -56,12 +56,12 @@ Für mich bedeutet Fortschritt, offen für Neues zu bleiben und auch einmal alte
 
 ---
 
-### 🧠 Fun Facts
+### 🎉 Fun Facts
 
-- "Mal kurz was ausprobieren" endet oft in npm-Paketen oder Side Projects 😅  
-- Wenn’s Terminal nicht geht, fühlt sich was falsch an  
-- Ich automatisiere gerne Dinge, die andere lieber manuell machen würden  
-- Ich schreibe lieber klare READMEs als lange Mails
+- 💡 *„Mal kurz was ausprobieren“* endet bei mir oft in npm-Paketen oder Side Projects  
+- ⌨️ Wenn das Terminal nicht läuft, fühlt sich etwas einfach falsch an  
+- 🤖 Ich automatisiere gerne Dinge, die andere lieber manuell machen würden  
+- 📖 Klare READMEs schreibe ich lieber als lange Mails  
 
 ---
 
