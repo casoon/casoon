@@ -1,11 +1,14 @@
 ### Hi, ich bin Jörn 👋  
 #### Web & Cloud Development | Freelancer | offen für Neues – mit 20+ Jahren Erfahrung
 
-Ich habe über zwei Jahrzehnte Erfahrung in der Softwareentwicklung – von systemnaher Programmierung unter Windows und Linux bis hin zu industriellen Anwendungen. Heute fokussiere ich mich auf Cloud-Architekturen und moderne Weblösungen, mit dem Ziel, Kunden nicht nur technisch, sondern auch strategisch in Marketing- und Kommunikationsfragen zu unterstützen.
+Ich entwickle seit vielen Jahren Web- und Cloud-Anwendungen – früher tief im System, heute lieber modern, schlank und plattformübergreifend.
 
-Als Mac-Nutzer setze ich bewusst auf plattformübergreifende Entwicklung, fernab rein nativer Windows-Umgebungen. Administratives Know-how habe ich mir im Laufe der Jahre angeeignet, setze aber seit der Cloud-Ära klar auf Auslagerung: Sicherheit und Robustheit sind für mich keine Gegensätze zur Cloud, sondern lassen sich dort gezielt stärken – auch wenn das in Europa noch eine besondere Herausforderung darstellt.
+Ich arbeite gern mit aktuellen Web-Technologien, denke Projekte ganzheitlich und habe Spaß daran, Ideen in saubere, gut wartbare Lösungen zu verwandeln. Cloud-Services und KI gehören für mich einfach dazu, weil sie vieles leichter machen.
 
-Für mich bedeutet Fortschritt, offen für Neues zu bleiben und auch einmal alte Erfahrungen bewusst loszulassen. KI sehe ich dabei als massiven Produktivitätsboost, den ich aktiv in meine Arbeit einfließen lasse.
+Offen für Neues, neugierig geblieben und immer auf der Suche nach guten Projekten und netten Kontakten.
+
+⸻
+
 
 ---
 
