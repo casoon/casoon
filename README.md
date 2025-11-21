@@ -1,11 +1,11 @@
 ### Hi, ich bin Jörn 👋  
 #### Web & Cloud Development | Freelancer | offen für Neues – mit 20+ Jahren Erfahrung
 
-Ich entwickle seit vielen Jahren Web- und Cloud-Anwendungen – früher tief im System, heute lieber modern, schlank und plattformübergreifend.
+Seit vielen Jahren unterwegs in der Web- und Cloud-Entwicklung – früher eher systemnah, heute lieber modern, leichtgewichtig und plattformübergreifend.
 
-Ich arbeite gern mit aktuellen Web-Technologien, denke Projekte ganzheitlich und habe Spaß daran, Ideen in saubere, gut wartbare Lösungen zu verwandeln. Cloud-Services und KI gehören für mich einfach dazu, weil sie vieles leichter machen.
+Ich arbeite gern mit aktuellen Web-Technologien, denke Projekte ganzheitlich und verwandle Ideen in saubere, gut wartbare Lösungen. Cloud-Services und KI gehören für mich selbstverständlich dazu, weil sie vieles einfacher machen.
 
-Offen für Neues, neugierig geblieben und immer auf der Suche nach guten Projekten und netten Kontakten.
+Neugierig geblieben, offen für Neues und immer interessiert an guten Projekten und netten Kontakten.
 
 ⸻
 
