@@ -1,49 +1,77 @@
-# Hi, ich bin Jörn 👋
+# Jörn Seidel
 
-**Web & Cloud Development** • einfache Lösungen für komplexe Probleme
+**Freelance Web Developer** · Edge-first, KI-augmented, pragmatisch
 
-Ich arbeite seit vielen Jahren in der Web- und Cloud-Entwicklung – heute vor allem modern, leichtgewichtig und plattformübergreifend.
-Ich mag klare Architekturen, pragmatische Lösungen und Technologien, die nicht im Weg stehen.
-Cloud, Automatisierung und KI sind für mich Werkzeuge im Alltag.
+Ich baue seit über 15 Jahren Webanwendungen. Heute mit einem Stack, der vor zwei Jahren noch nicht existiert hat – und einem Workflow, der sich alle paar Monate verändert.
 
----
+KI hat meine Arbeit nicht ersetzt. Sie hat verschoben, wofür ich Zeit habe: weniger Boilerplate, mehr Architektur. Weniger Copy-Paste, mehr Exploration. Weniger "geht das?" und mehr "wie gut geht das?". Claude Code, Cursor und lokale LLMs sind fester Bestandteil meines Alltags – nicht als Spielerei, sondern als Produktivitätsmultiplikator.
 
-## Kurz zu mir
-
-- Komplexes runterbrechen → klare, wartbare Lösungen
-- Sauberer Code, einfache Strukturen, schnelle Startwege
-- Moderne Web-Stacks und cloud-native Workflows
-- Node.js, C# und Rust – je nach Anforderung
-- Baue gern kleine Tools, wenn mir etwas fehlt
+Was sich nicht geändert hat: Ich mag Lösungen, die man in sechs Monaten noch versteht. Klare Strukturen, wenig Magie, keine Abhängigkeiten, die man nicht braucht.
 
 ---
 
-## Tech Stack
+### Was ich mache
 
-**Web:** TypeScript, Astro, Svelte, Tailwind  
-**Backend:** Bun, Node.js, Hono, .NET Core  
-**Infra:** Docker, Kubernetes, Cloudflare  
-**Datenbanken:** MongoDB, MySQL, Postgres, Redis, SQLite, Cloudflare D1/KV  
-**Cloud & AI:** Cloudflare Workers, OpenAI, Claude API
+- **Web Development** – Astro, Svelte, Tailwind, TypeScript. Vom Prototyp bis Production.
+- **Edge & Cloud** – Cloudflare Workers, D1, KV, R2. Serverless, wo es Sinn ergibt.
+- **KI-Integration** – Claude API, OpenAI, lokale Modelle. Nicht als Feature, sondern als Workflow.
+- **Tooling** – Baue CLI-Tools, wenn mir etwas fehlt. In TypeScript, Rust oder was gerade passt.
 
----
-
-## 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=casoon&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=casoon&show_icons=true&theme=tokyonight)
+**Ich bin als Freelancer verfügbar.** Projektarbeit, Beratung, technische Konzeption.
 
 ---
 
-## Aktuell
+### Tech
 
-- Baue Edge-first Apps mit Cloudflare Workers
-- Experimentiere mit AI-Agents und lokalen LLMs
-- Immer auf der Suche nach dem einfachsten Weg
+```
+Web        TypeScript · Astro · Svelte · Tailwind v4 · MDX
+Backend    Bun · Node.js · Hono · .NET Core · Rust
+Infra      Cloudflare Workers · Docker · Kubernetes
+Data       Postgres · MongoDB · Redis · SQLite · D1/KV
+AI/ML      Claude API · OpenAI · Ollama · lokale LLMs
+Tools      Biome · Zod · Sharp · Typst · Playwright
+```
 
 ---
 
-## Kontakt
+### Open Source
 
+| Projekt | Was es tut |
+|---|---|
+| [astro-v6-template](https://github.com/casoon/astro-v6-template) | Astro 6 Monorepo-Starter mit Tailwind v4, Svelte 5, Biome |
+| [astro-webvitals](https://github.com/casoon/astro-webvitals) | Core Web Vitals Tracking für Astro – lightweight, privacy-first |
+| [auditmysite](https://github.com/casoon/auditmysite) | WCAG Accessibility Auditing CLI in Rust |
+| [imgen](https://github.com/casoon/imgen) | CLI für Bildgenerierung via Replicate API (FLUX, SDXL, etc.) |
+| [nosecrets](https://github.com/casoon/nosecrets) | Pre-Commit Secret Scanner – offline, zero config |
+| [atlas](https://github.com/casoon/atlas) | SSR-safe Effects & Headless Components für Tailwind v4 |
+
+---
+
+### KI in meinem Workflow
+
+Ich versuche nicht, KI zu ignorieren oder so zu tun, als ändere sich nichts. Vieles, was ich vor zwei Jahren manuell gemacht habe, geht heute schneller – und oft besser. Das bedeutet nicht, dass der Entwickler obsolet wird. Es bedeutet, dass sich verschiebt, wofür man bezahlt wird.
+
+Mein Alltag:
+- **Claude Code** für Architekturentscheidungen, Refactoring, Code Reviews
+- **Cursor** für schnelles Prototyping und Exploration
+- **Lokale LLMs** (Ollama) für private/sensible Kontexte
+- **Prompt Engineering** als echte Skill – nicht als Buzzword
+
+Was sich verändert hat: Ich habe mehr Zeit für Planung, Dokumentation und Tests. Die Dinge, die früher als Luxus galten, sind jetzt Alltag – weil die KI den mechanischen Teil übernimmt.
+
+Was ich dabei gelernt habe: KI-Output ist nur so gut wie der Kontext, den du lieferst. Wer blind übernimmt, baut Schulden auf. Wer iteriert und validiert, beschleunigt massiv.
+
+---
+
+### Schreiben
+
+Ich schreibe regelmäßig über Web-Entwicklung, KI-Integration und Cloud-Architektur auf [insights.casoon.de](https://insights.casoon.de).
+
+---
+
+### Kontakt
+
+- **Web:** [casoon.de](https://casoon.de)
+- **Blog:** [insights.casoon.de](https://insights.casoon.de)
 - **LinkedIn:** [linkedin.com/in/casoon](https://www.linkedin.com/in/casoon/)
 - **GitHub:** [github.com/casoon](https://github.com/casoon)
