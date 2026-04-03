@@ -1,6 +1,6 @@
 # Jörn Seidel
 
-**Freelance Web Developer** · Edge-first, KI-augmented, pragmatisch
+**Freelance Web Developer** · Edge-first, KI-augmented, pragmatisch · 🟢 Verfügbar
 
 Ich baue seit über 15 Jahren Webanwendungen. Heute mit einem Stack, der vor zwei Jahren noch nicht existiert hat – und einem Workflow, der sich alle paar Monate verändert.
 
@@ -18,6 +18,8 @@ Was sich nicht geändert hat: Ich mag Lösungen, die man in sechs Monaten noch v
 - **Tooling** – Baue CLI-Tools, wenn mir etwas fehlt. In TypeScript, Rust oder was gerade passt.
 
 **Ich bin als Freelancer verfügbar.** Projektarbeit, Beratung, technische Konzeption.
+
+Kein WordPress. Kein Full-Time. Keine Festanstellung.
 
 ---
 
@@ -40,10 +42,22 @@ Tools      Biome · Zod · Sharp · Typst · Playwright
 |---|---|
 | [astro-v6-template](https://github.com/casoon/astro-v6-template) | Astro 6 Monorepo-Starter mit Tailwind v4, Svelte 5, Biome |
 | [astro-webvitals](https://github.com/casoon/astro-webvitals) | Core Web Vitals Tracking für Astro – lightweight, privacy-first |
+| [astro-speed-measure](https://github.com/casoon/astro-speed-measure) | Build-Performance-Messung für Astro – Integration und Vite Timing Reports |
 | [auditmysite](https://github.com/casoon/auditmysite) | WCAG Accessibility Auditing CLI in Rust |
+| [trackr](https://github.com/casoon/trackr) | Privacy-first, GDPR-native Analytics für statische Sites – cookieless, self-hosted |
+| [knowledge-core](https://github.com/casoon/knowledge-core) | Monorepo-Template für Docs- und Kursplattformen mit Astro, MDX, Tailwind |
+| [etasks](https://github.com/casoon/etasks) | Local-first Desktop-App – Tagesplanung, Zeiterfassung, Kanban. Tauri + Astro + Rust |
+| [loomchart](https://github.com/casoon/loomchart) | High-Performance Real-time Trading Charts – Rust/WASM + Astro |
+| [renderreport](https://github.com/casoon/renderreport) | PDF-Reportgenerierung via Typst |
+| [typst-business-templates](https://github.com/casoon/typst-business-templates) | Typst-Vorlagen für Rechnungen, Angebote, Konzepte – mit Rust CLI |
 | [imgen](https://github.com/casoon/imgen) | CLI für Bildgenerierung via Replicate API (FLUX, SDXL, etc.) |
 | [nosecrets](https://github.com/casoon/nosecrets) | Pre-Commit Secret Scanner – offline, zero config |
-| [atlas](https://github.com/casoon/atlas) | SSR-safe Effects & Headless Components für Tailwind v4 |
+
+---
+
+### GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=casoon&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=default)
 
 ---
 
@@ -72,6 +86,5 @@ Ich schreibe regelmäßig über Web-Entwicklung, KI-Integration und Cloud-Archit
 ### Kontakt
 
 - **Web:** [casoon.de](https://casoon.de)
-- **Blog:** [insights.casoon.de](https://insights.casoon.de)
 - **LinkedIn:** [linkedin.com/in/casoon](https://www.linkedin.com/in/casoon/)
 - **GitHub:** [github.com/casoon](https://github.com/casoon)
