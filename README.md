@@ -55,14 +55,6 @@ Tools      Biome · Zod · Sharp · Typst · Playwright
 
 ---
 
-### GitHub
-
-![](./profile-summary-card-output/default/0-profile-details.svg)
-
-![](./profile-summary-card-output/default/4-productive-time.svg) ![](./profile-summary-card-output/default/2-most-commit-language.svg)
-
----
-
 ### KI in meinem Workflow
 
 Ich versuche nicht, KI zu ignorieren oder so zu tun, als ändere sich nichts. Vieles, was ich vor zwei Jahren manuell gemacht habe, geht heute schneller – und oft besser. Das bedeutet nicht, dass der Entwickler obsolet wird. Es bedeutet, dass sich verschiebt, wofür man bezahlt wird.
