@@ -46,6 +46,7 @@ Tools      Biome · Zod · Sharp · Typst · Playwright
 | [astro-webvitals](https://github.com/casoon/astro-webvitals) | Core Web Vitals Tracking für Astro – lightweight, privacy-first |
 | [astro-speed-measure](https://github.com/casoon/astro-speed-measure) | Build-Performance-Messung für Astro – Integration und Vite Timing Reports |
 | [auditmysite](https://github.com/casoon/auditmysite) | WCAG Accessibility Auditing CLI in Rust |
+| [astro-post-audit](https://github.com/casoon/astro-post-audit) | Post-Build Auditor für Astro – SEO, Links, WCAG-Checks |
 | [trackr](https://github.com/casoon/trackr) | Privacy-first, GDPR-native Analytics für statische Sites – cookieless, self-hosted |
 | [knowledge-core](https://github.com/casoon/knowledge-core) | Monorepo-Template für Docs- und Kursplattformen mit Astro, MDX, Tailwind |
 | [etasks](https://github.com/casoon/etasks) | Local-first Desktop-App – Tagesplanung, Zeiterfassung, Kanban. Tauri + Astro + Rust |
