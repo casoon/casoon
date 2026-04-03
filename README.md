@@ -86,5 +86,6 @@ Ich schreibe regelmäßig über Web-Entwicklung, KI-Integration und Cloud-Archit
 ### Kontakt
 
 - **Web:** [casoon.de](https://casoon.de)
+- **Projekte:** [casoon.dev](https://casoon.dev)
 - **LinkedIn:** [linkedin.com/in/casoon](https://www.linkedin.com/in/casoon/)
 - **GitHub:** [github.com/casoon](https://github.com/casoon)
