@@ -15,6 +15,7 @@ Was sich nicht geändert hat: Ich mag Lösungen, die man in sechs Monaten noch v
 - **Web Development** – Astro, Svelte, Tailwind, TypeScript. Vom Prototyp bis Production.
 - **Edge & Cloud** – Cloudflare Workers, D1, KV, R2. Serverless, wo es Sinn ergibt.
 - **KI-Integration** – Claude API, OpenAI, lokale Modelle. Nicht als Feature, sondern als Workflow.
+- **Desktop & Mobile** – Tauri für cross-platform Desktop-Apps, Flutter für mobile Anwendungen.
 - **Tooling** – Baue CLI-Tools, wenn mir etwas fehlt. In TypeScript, Rust oder was gerade passt.
 
 **Ich bin als Freelancer verfügbar.** Projektarbeit, Beratung, technische Konzeption.
@@ -31,6 +32,7 @@ Backend    Bun · Node.js · Hono · .NET Core · Rust
 Infra      Cloudflare Workers · Docker · Kubernetes
 Data       Postgres · MongoDB · Redis · SQLite · D1/KV
 AI/ML      Claude API · OpenAI · Ollama · lokale LLMs
+Desktop    Tauri · Flutter
 Tools      Biome · Zod · Sharp · Typst · Playwright
 ```
 
