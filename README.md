@@ -57,7 +57,9 @@ Tools      Biome · Zod · Sharp · Typst · Playwright
 
 ### GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=casoon&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=default)
+![](./profile-summary-card-output/default/0-profile-details.svg)
+
+![](./profile-summary-card-output/default/4-productive-time.svg) ![](./profile-summary-card-output/default/2-most-commit-language.svg)
 
 ---
 
