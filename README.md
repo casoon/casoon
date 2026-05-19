@@ -2,9 +2,7 @@
 
 **Freelance Web Developer** · Edge-first, KI-augmented, pragmatisch · 🟢 Verfügbar
 
-Ich baue seit über 15 Jahren Webanwendungen. Heute mit einem Stack, der vor zwei Jahren noch nicht existiert hat – und einem Workflow, der sich alle paar Monate verändert.
-
-KI hat meine Arbeit nicht ersetzt. Sie hat verschoben, wofür ich Zeit habe: weniger Boilerplate, mehr Architektur. Weniger Copy-Paste, mehr Exploration. Weniger "geht das?" und mehr "wie gut geht das?". Claude Code, Cursor und lokale LLMs sind fester Bestandteil meines Alltags – nicht als Spielerei, sondern als Produktivitätsmultiplikator.
+Ich baue seit über 15 Jahren Webanwendungen – mit einem Stack, der sich laufend verändert, und einer Arbeitsweise, die KI als festen Bestandteil einschließt. Nicht als Spielerei, sondern weil es verschiebt, wofür ich Zeit habe: weniger Boilerplate, mehr Architektur.
 
 Was sich nicht geändert hat: Ich mag Lösungen, die man in sechs Monaten noch versteht. Klare Strukturen, wenig Magie, keine Abhängigkeiten, die man nicht braucht.
 
@@ -18,9 +16,7 @@ Was sich nicht geändert hat: Ich mag Lösungen, die man in sechs Monaten noch v
 - **Desktop & Mobile** – Tauri für cross-platform Desktop-Apps, Flutter für mobile Anwendungen.
 - **Tooling** – Baue CLI-Tools, wenn mir etwas fehlt. In TypeScript, Rust oder was gerade passt.
 
-**Ich bin als Freelancer verfügbar.** Projektarbeit, Beratung, technische Konzeption.
-
-Kein WordPress. Kein Full-Time. Keine Festanstellung.
+**Ich bin als Freelancer verfügbar.** Projektarbeit, Beratung, technische Konzeption – am liebsten mit klarem Scope, direkt und ohne Agentur-Layer dazwischen.
 
 ---
 
@@ -42,7 +38,7 @@ Tools      Biome · Zod · Sharp · Typst · Playwright
 
 **Starter & Templates**
 
-| Projekt | Was es tut |
+| Projekt | |
 |---|---|
 | [astro-v6-template](https://github.com/casoon/astro-v6-template) | Astro 6 Monorepo-Starter mit Tailwind v4, Svelte 5, Biome |
 | [astro-unocss-starter](https://github.com/casoon/astro-unocss-starter) | Astro 6 + UnoCSS 66 Starter – Utilities, Shortcuts, Icons, Build-Time SEO |
@@ -50,7 +46,7 @@ Tools      Biome · Zod · Sharp · Typst · Playwright
 
 **Astro Integrationen & Tools**
 
-| Projekt | Was es tut |
+| Projekt | |
 |---|---|
 | [astro-post-audit](https://github.com/casoon/astro-post-audit) | Post-Build Auditor für Astro – SEO, Links, WCAG-Checks |
 | [astro-sitemap](https://github.com/casoon/astro-sitemap) | Sitemap-Generator für Astro – i18n hreflang, RSS, sitemap-index |
@@ -60,7 +56,7 @@ Tools      Biome · Zod · Sharp · Typst · Playwright
 
 **Apps & CLI-Tools**
 
-| Projekt | Was es tut |
+| Projekt | |
 |---|---|
 | [auditmysite](https://github.com/casoon/auditmysite) | WCAG Accessibility Auditing CLI in Rust |
 | [auditmysite_studio](https://github.com/casoon/auditmysite_studio) | AuditMySite Desktop App – Flutter, WCAG-Compliance-Reporting |
@@ -73,7 +69,7 @@ Tools      Biome · Zod · Sharp · Typst · Playwright
 
 **Libraries**
 
-| Projekt | Was es tut |
+| Projekt | |
 |---|---|
 | [trackr](https://github.com/casoon/trackr) | Privacy-first, GDPR-native Analytics – cookieless, < 1KB, self-hosted |
 | [billbee.net](https://github.com/casoon/billbee.net) | Asynchrone .NET-Clientbibliothek für die Billbee API mit Resilience-Patterns |
@@ -84,23 +80,19 @@ Tools      Biome · Zod · Sharp · Typst · Playwright
 
 ### KI in meinem Workflow
 
-Ich versuche nicht, KI zu ignorieren oder so zu tun, als ändere sich nichts. Vieles, was ich vor zwei Jahren manuell gemacht habe, geht heute schneller – und oft besser. Das bedeutet nicht, dass der Entwickler obsolet wird. Es bedeutet, dass sich verschiebt, wofür man bezahlt wird.
-
 Mein Alltag:
 - **Claude Code** für Architekturentscheidungen, Refactoring, Code Reviews
 - **Cursor** für schnelles Prototyping und Exploration
 - **Lokale LLMs** (Ollama) für private/sensible Kontexte
 - **Prompt Engineering** als echte Skill – nicht als Buzzword
 
-Was sich verändert hat: Ich habe mehr Zeit für Planung, Dokumentation und Tests. Die Dinge, die früher als Luxus galten, sind jetzt Alltag – weil die KI den mechanischen Teil übernimmt.
-
-Was ich dabei gelernt habe: KI-Output ist nur so gut wie der Kontext, den du lieferst. Wer blind übernimmt, baut Schulden auf. Wer iteriert und validiert, beschleunigt massiv.
+KI-Output ist nur so gut wie der Kontext, den du lieferst. Wer blind übernimmt, baut Schulden auf. Wer iteriert und validiert, beschleunigt massiv.
 
 ---
 
 ### Schreiben
 
-Ich schreibe regelmäßig über Web-Entwicklung, KI-Integration und Cloud-Architektur auf [insights.casoon.de](https://insights.casoon.de).
+Auf [insights.casoon.de](https://insights.casoon.de) schreibe ich über Web-Entwicklung, KI-Integration und Cloud-Architektur – mit Fokus auf Dinge, die ich selbst im Einsatz habe.
 
 ---
 
