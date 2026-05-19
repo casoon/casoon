@@ -40,21 +40,45 @@ Tools      Biome · Zod · Sharp · Typst · Playwright
 
 ### Open Source
 
+**Starter & Templates**
+
 | Projekt | Was es tut |
 |---|---|
 | [astro-v6-template](https://github.com/casoon/astro-v6-template) | Astro 6 Monorepo-Starter mit Tailwind v4, Svelte 5, Biome |
+| [astro-unocss-starter](https://github.com/casoon/astro-unocss-starter) | Astro 6 + UnoCSS 66 Starter – Utilities, Shortcuts, Icons, Build-Time SEO |
+| [knowledge-core](https://github.com/casoon/knowledge-core) | Monorepo-Template für Docs- und Kursplattformen mit Astro, MDX, Tailwind |
+
+**Astro Integrationen & Tools**
+
+| Projekt | Was es tut |
+|---|---|
+| [astro-post-audit](https://github.com/casoon/astro-post-audit) | Post-Build Auditor für Astro – SEO, Links, WCAG-Checks |
+| [astro-sitemap](https://github.com/casoon/astro-sitemap) | Sitemap-Generator für Astro – i18n hreflang, RSS, sitemap-index |
+| [astro-crawler-policy](https://github.com/casoon/astro-crawler-policy) | Policy-first robots.txt & llms.txt für Astro – AI-Crawler-Registry |
 | [astro-webvitals](https://github.com/casoon/astro-webvitals) | Core Web Vitals Tracking für Astro – lightweight, privacy-first |
 | [astro-speed-measure](https://github.com/casoon/astro-speed-measure) | Build-Performance-Messung für Astro – Integration und Vite Timing Reports |
+
+**Apps & CLI-Tools**
+
+| Projekt | Was es tut |
+|---|---|
 | [auditmysite](https://github.com/casoon/auditmysite) | WCAG Accessibility Auditing CLI in Rust |
-| [astro-post-audit](https://github.com/casoon/astro-post-audit) | Post-Build Auditor für Astro – SEO, Links, WCAG-Checks |
-| [trackr](https://github.com/casoon/trackr) | Privacy-first, GDPR-native Analytics für statische Sites – cookieless, self-hosted |
-| [knowledge-core](https://github.com/casoon/knowledge-core) | Monorepo-Template für Docs- und Kursplattformen mit Astro, MDX, Tailwind |
+| [auditmysite_studio](https://github.com/casoon/auditmysite_studio) | AuditMySite Desktop App – Flutter, WCAG-Compliance-Reporting |
 | [etasks](https://github.com/casoon/etasks) | Local-first Desktop-App – Tagesplanung, Zeiterfassung, Kanban. Tauri + Astro + Rust |
 | [loomchart](https://github.com/casoon/loomchart) | High-Performance Real-time Trading Charts – Rust/WASM + Astro |
 | [renderreport](https://github.com/casoon/renderreport) | PDF-Reportgenerierung via Typst |
 | [typst-business-templates](https://github.com/casoon/typst-business-templates) | Typst-Vorlagen für Rechnungen, Angebote, Konzepte – mit Rust CLI |
 | [imgen](https://github.com/casoon/imgen) | CLI für Bildgenerierung via Replicate API (FLUX, SDXL, etc.) |
 | [nosecrets](https://github.com/casoon/nosecrets) | Pre-Commit Secret Scanner – offline, zero config |
+
+**Libraries**
+
+| Projekt | Was es tut |
+|---|---|
+| [trackr](https://github.com/casoon/trackr) | Privacy-first, GDPR-native Analytics – cookieless, < 1KB, self-hosted |
+| [billbee.net](https://github.com/casoon/billbee.net) | Asynchrone .NET-Clientbibliothek für die Billbee API mit Resilience-Patterns |
+| [pine-scripts](https://github.com/casoon/pine-scripts) | Pine Script v6 Collection – Indikatoren, Strategien & RTA-Libraries für TradingView |
+| [zed-godot-enhanced](https://github.com/casoon/zed-godot-enhanced) | Vollständiges Godot-Support-Package für den Zed Editor – LSP, Debugging |
 
 ---
 
