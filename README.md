@@ -53,6 +53,7 @@ Tools      Biome · Zod · Sharp · Typst · Playwright
 | [astro-crawler-policy](https://github.com/casoon/astro-crawler-policy) | Policy-first robots.txt & llms.txt für Astro – AI-Crawler-Registry |
 | [astro-webvitals](https://github.com/casoon/astro-webvitals) | Core Web Vitals Tracking für Astro – lightweight, privacy-first |
 | [astro-speed-measure](https://github.com/casoon/astro-speed-measure) | Build-Performance-Messung für Astro – Integration und Vite Timing Reports |
+| [astro-structured-data](https://github.com/casoon/astro-structured-data) | Schema.org JSON-LD Komponenten für Astro – typsicher mit schema-dts, zero Runtime-Overhead |
 
 **Apps & CLI-Tools**
 
