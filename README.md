@@ -2,7 +2,7 @@
 
 **Freelance Web Developer** · Edge-first, KI-augmented, pragmatisch · 🟢 Verfügbar
 
-Ich baue seit über 15 Jahren Webanwendungen – mit einem Stack, der sich laufend verändert, und einer Arbeitsweise, die KI als festen Bestandteil einschließt. Nicht als Spielerei, sondern weil es verschiebt, wofür ich Zeit habe: weniger Boilerplate, mehr Architektur.
+Ich baue seit über 20 Jahren Webanwendungen – mit einem Stack, der sich laufend verändert, und einer Arbeitsweise, die KI als festen Bestandteil einschließt. Nicht als Spielerei, sondern weil es verschiebt, wofür ich Zeit habe: weniger Boilerplate, mehr Architektur.
 
 Was sich nicht geändert hat: Ich mag Lösungen, die man in sechs Monaten noch versteht. Klare Strukturen, wenig Magie, keine Abhängigkeiten, die man nicht braucht.
 
@@ -40,7 +40,7 @@ Tools      Biome · Zod · Sharp · Typst · Playwright
 
 | Projekt | |
 |---|---|
-| [astro-v6-template](https://github.com/casoon/astro-v6-template) | Astro 6 Monorepo-Starter mit Tailwind v4, Svelte 5, Biome |
+| [astro-v7-template](https://github.com/casoon/astro-v7-template) | Production-ready Astro 7 Monorepo-Starter (Starter + Blog) |
 | [astro-unocss-starter](https://github.com/casoon/astro-unocss-starter) | Astro 6 + UnoCSS 66 Starter – Utilities, Shortcuts, Icons, Build-Time SEO |
 | [knowledge-core](https://github.com/casoon/knowledge-core) | Monorepo-Template für Docs- und Kursplattformen mit Astro, MDX, Tailwind |
 
@@ -49,8 +49,6 @@ Tools      Biome · Zod · Sharp · Typst · Playwright
 | Projekt | |
 |---|---|
 | [astro-post-audit](https://github.com/casoon/astro-post-audit) | Post-Build Auditor für Astro – SEO, Links, WCAG-Checks |
-| [astro-sitemap](https://github.com/casoon/astro-sitemap) | Sitemap-Generator für Astro – i18n hreflang, RSS, sitemap-index |
-| [astro-crawler-policy](https://github.com/casoon/astro-crawler-policy) | Policy-first robots.txt & llms.txt für Astro – AI-Crawler-Registry |
 | [astro-webvitals](https://github.com/casoon/astro-webvitals) | Core Web Vitals Tracking für Astro – lightweight, privacy-first |
 | [astro-speed-measure](https://github.com/casoon/astro-speed-measure) | Build-Performance-Messung für Astro – Integration und Vite Timing Reports |
 | [astro-structured-data](https://github.com/casoon/astro-structured-data) | Schema.org JSON-LD Komponenten für Astro – typsicher mit schema-dts, zero Runtime-Overhead |
@@ -73,6 +71,7 @@ Tools      Biome · Zod · Sharp · Typst · Playwright
 | Projekt | |
 |---|---|
 | [trackr](https://github.com/casoon/trackr) | Privacy-first, GDPR-native Analytics – cookieless, < 1KB, self-hosted |
+| [webspire](https://github.com/casoon/webspire) | CSS-Effekte für Tailwind v4 – copy, paste, done |
 | [billbee.net](https://github.com/casoon/billbee.net) | Asynchrone .NET-Clientbibliothek für die Billbee API mit Resilience-Patterns |
 | [pine-scripts](https://github.com/casoon/pine-scripts) | Pine Script v6 Collection – Indikatoren, Strategien & RTA-Libraries für TradingView |
 | [zed-godot-enhanced](https://github.com/casoon/zed-godot-enhanced) | Vollständiges Godot-Support-Package für den Zed Editor – LSP, Debugging |
