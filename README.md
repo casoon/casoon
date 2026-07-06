@@ -58,7 +58,6 @@ Tools      Biome · Zod · Sharp · Typst · Playwright
 | Projekt | |
 |---|---|
 | [auditmysite](https://github.com/casoon/auditmysite) | WCAG Accessibility Auditing CLI in Rust |
-| [auditmysite_studio](https://github.com/casoon/auditmysite_studio) | AuditMySite Desktop App – Flutter, WCAG-Compliance-Reporting |
 | [etasks](https://github.com/casoon/etasks) | Local-first Desktop-App – Tagesplanung, Zeiterfassung, Kanban. Tauri + Astro + Rust |
 | [loomchart](https://github.com/casoon/loomchart) | High-Performance Real-time Trading Charts – Rust/WASM + Astro |
 | [renderreport](https://github.com/casoon/renderreport) | PDF-Reportgenerierung via Typst |
@@ -71,7 +70,6 @@ Tools      Biome · Zod · Sharp · Typst · Playwright
 | Projekt | |
 |---|---|
 | [trackr](https://github.com/casoon/trackr) | Privacy-first, GDPR-native Analytics – cookieless, < 1KB, self-hosted |
-| [webspire](https://github.com/casoon/webspire) | CSS-Effekte für Tailwind v4 – copy, paste, done |
 | [billbee.net](https://github.com/casoon/billbee.net) | Asynchrone .NET-Clientbibliothek für die Billbee API mit Resilience-Patterns |
 | [pine-scripts](https://github.com/casoon/pine-scripts) | Pine Script v6 Collection – Indikatoren, Strategien & RTA-Libraries für TradingView |
 | [zed-godot-enhanced](https://github.com/casoon/zed-godot-enhanced) | Vollständiges Godot-Support-Package für den Zed Editor – LSP, Debugging |
