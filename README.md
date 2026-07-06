@@ -1,6 +1,6 @@
 # Jörn Seidel
 
-**Freelance Web Developer** · Edge-first, KI-augmented, pragmatisch · 🟢 Verfügbar
+**Freelance Web Developer bei [CASOON](https://casoon.de)** · Edge-first, KI-augmented, pragmatisch · 🟢 Verfügbar
 
 Ich baue seit über 20 Jahren Webanwendungen – mit einem Stack, der sich laufend verändert, und einer Arbeitsweise, die KI als festen Bestandteil einschließt. Nicht als Spielerei, sondern weil es verschiebt, wofür ich Zeit habe: weniger Boilerplate, mehr Architektur.
 
@@ -12,11 +12,11 @@ Was sich nicht geändert hat: Ich mag Lösungen, die man in sechs Monaten noch v
 
 - **Web Development** – Astro, Svelte, Tailwind, TypeScript. Vom Prototyp bis Production.
 - **Edge & Cloud** – Cloudflare Workers, D1, KV, R2. Serverless, wo es Sinn ergibt.
-- **KI-Integration** – Claude API, OpenAI, lokale Modelle. Nicht als Feature, sondern als Workflow.
+- **KI-Integration** – Claude API, OpenAI, lokale Modelle, fest im täglichen Workflow verankert.
 - **Desktop & Mobile** – Tauri für cross-platform Desktop-Apps, Flutter für mobile Anwendungen.
 - **Tooling** – Baue CLI-Tools, wenn mir etwas fehlt. In TypeScript, Rust oder was gerade passt.
 
-**Ich bin als Freelancer verfügbar.** Projektarbeit, Beratung, technische Konzeption – am liebsten mit klarem Scope, direkt und ohne Agentur-Layer dazwischen.
+**Projektarbeit, Beratung, technische Konzeption** – am liebsten mit klarem Scope, direkt und ohne Agentur-Layer dazwischen.
 
 ---
 
@@ -82,7 +82,7 @@ Mein Alltag:
 - **Claude Code** für Architekturentscheidungen, Refactoring, Code Reviews
 - **Cursor** für schnelles Prototyping und Exploration
 - **Lokale LLMs** (Ollama) für private/sensible Kontexte
-- **Prompt Engineering** als echte Skill – nicht als Buzzword
+- **Prompt Engineering** als Fähigkeit, die man übt wie jede andere
 
 KI-Output ist nur so gut wie der Kontext, den du lieferst. Wer blind übernimmt, baut Schulden auf. Wer iteriert und validiert, beschleunigt massiv.
 
@@ -90,7 +90,7 @@ KI-Output ist nur so gut wie der Kontext, den du lieferst. Wer blind übernimmt,
 
 ### Schreiben
 
-Auf [insights.casoon.de](https://insights.casoon.de) schreibe ich über Web-Entwicklung, KI-Integration und Cloud-Architektur – mit Fokus auf Dinge, die ich selbst im Einsatz habe.
+Auf [insights.casoon.de](https://insights.casoon.de) schreibe ich über Web-Entwicklung, KI-Integration und Cloud-Architektur – mit Fokus auf Dinge, die ich selbst im Einsatz habe. Darunter mehrteilige Serien, u. a. zu Mistral & Vibe CLI und zur Cloudflare-Architektur.
 
 ---
 
