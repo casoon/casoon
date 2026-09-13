@@ -64,7 +64,8 @@ Tools      Biome · Zod · Sharp · Typst · Playwright
 |---|---|
 | [auditmysite](https://github.com/casoon/auditmysite) | WCAG Accessibility Auditing CLI in Rust |
 | [etasks](https://github.com/casoon/etasks) | Local-first Desktop-App – Tagesplanung, Zeiterfassung, Kanban, PDF-Reports. Tauri + Astro + Svelte + Rust |
-| [loomchart](https://github.com/casoon/loomchart) | High-Performance Real-time Trading Charts – Rust/WASM + Astro |
+| [kestrel-loom](https://github.com/casoon/kestrel-loom) | Interaktiver Trading-Chart-Renderer – Rust → WebAssembly → Canvas 2D, Indikatoren aus kestrel-chartkit |
+| [chartlet](https://github.com/casoon/chartlet) | JSON-Chart-Specs zur Build-Zeit zu barrierefreien SVG-/HTML-Charts – kein Chart-JavaScript im Browser. Rust-CLI mit Astro-Integration |
 | [renderreport](https://github.com/casoon/renderreport) | Data-driven PDF-Reportgenerierung mit Typst als Engine – nativ oder als WASM (z. B. Cloudflare Workers) |
 | [typst-business-templates](https://github.com/casoon/typst-business-templates) | Typst-Vorlagen für Rechnungen, Angebote, Konzepte – mit Rust CLI |
 | [typstgen](https://github.com/casoon/typstgen) | CLI zum Kompilieren bestehender .typ-Dateien zu PDF mit eingebetteter Typst-Engine |
@@ -75,6 +76,8 @@ Tools      Biome · Zod · Sharp · Typst · Playwright
 | [judge](https://github.com/casoon/judge) | Codebase Intelligence für Rust-Workspaces – reproduzierbare Findings, Baselines und CI-Verdicts |
 | [knowledge-lint](https://github.com/casoon/knowledge-lint) | Validiert und pflegt eine Markdown/YAML-Wissensbasis gegen eine deklarative Typ-Konfiguration |
 | [ai-agent-config](https://github.com/casoon/ai-agent-config) | Teilbare Baseline-Konfiguration für Claude Code und Codex – Instructions, Subagents, Skills in einem Tree |
+| [broom](https://github.com/casoon/broom) | Konservativer Cleaner für Cargo-Build-Artefakte in einem oder vielen Rust-Projekten (`cargo-broom`) |
+| [site-scraper](https://github.com/casoon/site-scraper) | Statische Kopien von Websites per CLI – Kundenseiten vor CMS-zu-Astro-Migrationen archivieren |
 
 **Libraries**
 
@@ -85,6 +88,8 @@ Tools      Biome · Zod · Sharp · Typst · Playwright
 | [pine-scripts](https://github.com/casoon/pine-scripts) | Pine Script v6 Collection – Indikatoren, Strategien & RTA-Libraries für TradingView |
 | [zed-godot-enhanced](https://github.com/casoon/zed-godot-enhanced) | Vollständiges Godot-Support-Package für den Zed Editor – LSP, Debugging |
 | [runemark](https://github.com/casoon/runemark) | Opinionated, lesbare Terminal-Darstellung für Rust CLI-Tools |
+| [kestrel-chartkit](https://github.com/casoon/kestrel-chartkit) | Technische Analyse in Rust – Indikatoren, Marktregime-Klassifikation, Composite Scoring, SVG-Visualisierung |
+| [kestrel-connector](https://github.com/casoon/kestrel-connector) | Datenfeed-Adapter (EODHD, Capital.com, IB) für kestrel-chartkit |
 
 **Rust – Spec-getreue Parser & Solver**
 
@@ -92,6 +97,7 @@ Tools      Biome · Zod · Sharp · Typst · Playwright
 |---|---|
 | [pathwise](https://github.com/casoon/pathwise) | Generische Such-, Optimierungs- und Constraint-Solving-Bausteine für Rust |
 | [unifier](https://github.com/casoon/unifier) | Constraint-Satisfaction/-Optimization-Framework (CSP/COP) für Rust, aufbauend auf pathwise |
+| [schedulr](https://github.com/casoon/schedulr) | Scheduling-Framework (Aktivitäten, Ressourcen, Intervalle als DSL) für Rust, aufbauend auf unifier |
 | [origin](https://github.com/casoon/origin) | Referenzarchitektur und Starter-System für modulare Rust + Tauri Desktop-Anwendungen |
 | [html5-parser](https://github.com/casoon/html5-parser) | Reiner Rust-WHATWG-HTML5-Tokenizer mit Tree-Construction |
 | [html-conform](https://github.com/casoon/html-conform) | HTML5-Konformitätsprüfung als Rust-Dependency (vnu-vergleichbar, ohne JVM-Runtime) |
