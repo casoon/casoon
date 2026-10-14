@@ -1,6 +1,6 @@
 # Jörn Seidel
 
-**Freelance Web Developer bei [CASOON](https://casoon.de)** · Edge-first, KI-augmented, pragmatisch · 🟢 Verfügbar
+**Freelance Web Developer bei [CASOON](https://casoon.de)** · Edge-first, KI-augmented, pragmatisch · 🟡 Bis 1. November ausgelastet – nur kleinere Anfragen
 
 Ich baue seit über 20 Jahren Webanwendungen – mit einem Stack, der sich laufend verändert, und einer Arbeitsweise, die KI als festen Bestandteil einschließt. Nicht als Spielerei, sondern weil es verschiebt, wofür ich Zeit habe: weniger Boilerplate, mehr Architektur.
 
@@ -72,7 +72,7 @@ Alle Projekte mit Beschreibung und Links: **[casoon.dev](https://casoon.dev)**
 </details>
 
 <details>
-<summary><b>Apps & CLI-Tools</b> (17)</summary>
+<summary><b>Apps & CLI-Tools</b> (18)</summary>
 
 | Projekt | |
 |---|---|
@@ -93,11 +93,12 @@ Alle Projekte mit Beschreibung und Links: **[casoon.dev](https://casoon.dev)**
 | [knowledge-lint](https://github.com/casoon/knowledge-lint) | Validiert Markdown/YAML-Wissensbasen |
 | [broom](https://github.com/casoon/broom) | Räumt Cargo-Build-Artefakte auf |
 | [site-scraper](https://github.com/casoon/site-scraper) | Statische Kopien von Websites per CLI |
+| [relief](https://github.com/casoon/relief) | Forschungsbrowser: Webseiten über den Accessibility-Tree per Absicht bedienen |
 
 </details>
 
 <details>
-<summary><b>Libraries</b> (13)</summary>
+<summary><b>Libraries</b> (15)</summary>
 
 | Projekt | |
 |---|---|
@@ -105,6 +106,8 @@ Alle Projekte mit Beschreibung und Links: **[casoon.dev](https://casoon.dev)**
 | [opengrid](https://github.com/casoon/opengrid) | Rust/WASM-Query-Engine mit DataGrid, Table, PivotGrid |
 | [lightweight-pdf](https://github.com/casoon/lightweight-pdf) | Schlanke PDF-Generierung in Rust, WASM-ready |
 | [runemark](https://github.com/casoon/runemark) | Lesbare Terminal-Ausgabe für Rust-CLIs |
+| [typedlm](https://github.com/casoon/typedlm) | Typisierte, testbare LLM-Programme in Rust |
+| [embedded-typst](https://github.com/casoon/embedded-typst) | Typst-Compiler einbetten: Fonts, virtuelles Dateisystem, Pakete |
 | [pathwise](https://github.com/casoon/pathwise) · [unifier](https://github.com/casoon/unifier) · [schedulr](https://github.com/casoon/schedulr) | Suche/Optimierung → CSP/COP-Solver → Scheduling in Rust |
 | [origin](https://github.com/casoon/origin) | Referenzarchitektur für Rust + Tauri Desktop-Apps |
 | [kestrel-chartkit](https://github.com/casoon/kestrel-chartkit) | Technische Analyse in Rust |
@@ -118,7 +121,7 @@ Alle Projekte mit Beschreibung und Links: **[casoon.dev](https://casoon.dev)**
 </details>
 
 <details>
-<summary><b>Demos, Beispiele & Konfiguration</b> (9)</summary>
+<summary><b>Demos, Beispiele & Konfiguration</b> (11)</summary>
 
 | Projekt | |
 |---|---|
@@ -129,6 +132,8 @@ Alle Projekte mit Beschreibung und Links: **[casoon.dev](https://casoon.dev)**
 | [astro-with-tanstack](https://github.com/casoon/astro-with-tanstack) | Admin-UI mit Svelte 5 und TanStack |
 | [neutralinojs-demo](https://github.com/casoon/neutralinojs-demo) | Desktop-Dashboard mit Neutralinojs + Astro |
 | [trackr-demo](https://github.com/casoon/trackr-demo) | Demo für trackr |
+| [go-tutorial](https://github.com/casoon/go-tutorial) | Go-Tutorial in 16 Teilen: ein produktionsnaher URL-Monitor |
+| [surrealdb-content-demo](https://github.com/casoon/surrealdb-content-demo) | Begleit-Repo zur Insights-Serie über SurrealDB |
 | [wasm_intro](https://github.com/casoon/wasm_intro) · [learning-examples](https://github.com/casoon/learning-examples) | Code-Beispiele zu Blogserien und Kursen |
 | [ai-agent-config](https://github.com/casoon/ai-agent-config) | Baseline-Config für Claude Code und Codex |
 
