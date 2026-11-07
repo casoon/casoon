@@ -1,6 +1,10 @@
 # Jörn Seidel
 
-**Freelance Web Developer bei [CASOON](https://casoon.de)** · Edge-first, KI-augmented, pragmatisch · 🟡 Bis 1. November ausgelastet – nur kleinere Anfragen
+**Entwickler und Berater bei [CASOON](https://casoon.de)** · Webanwendungen, Edge-Infrastruktur und Rust-Tools – direkt, ohne Agentur-Layer
+
+🟢 **Verfügbar für neue Projekte** – Anfragen an [info@casoon.de](mailto:info@casoon.de)
+
+> *Freelance developer and consultant from Rostock, Germany: web applications, edge infrastructure and Rust tooling. Most of my open-source projects are documented in English – available for new projects, contact [info@casoon.de](mailto:info@casoon.de).*
 
 Ich baue seit über 20 Jahren Webanwendungen – mit einem Stack, der sich laufend verändert, und einer Arbeitsweise, die KI als festen Bestandteil einschließt. Nicht als Spielerei, sondern weil es verschiebt, wofür ich Zeit habe: weniger Boilerplate, mehr Architektur.
 
@@ -72,7 +76,7 @@ Alle Projekte mit Beschreibung und Links: **[casoon.dev](https://casoon.dev)**
 </details>
 
 <details>
-<summary><b>Apps & CLI-Tools</b> (18)</summary>
+<summary><b>Apps & CLI-Tools</b> (20)</summary>
 
 | Projekt | |
 |---|---|
@@ -94,6 +98,8 @@ Alle Projekte mit Beschreibung und Links: **[casoon.dev](https://casoon.dev)**
 | [broom](https://github.com/casoon/broom) | Räumt Cargo-Build-Artefakte auf |
 | [site-scraper](https://github.com/casoon/site-scraper) | Statische Kopien von Websites per CLI |
 | [relief](https://github.com/casoon/relief) | Forschungsbrowser: Webseiten über den Accessibility-Tree per Absicht bedienen |
+| [agentmeter](https://github.com/casoon/agentmeter) | Wertet Sessions von Claude Code und Codex aus: Kontext, Cache, Sitzungslänge |
+| [barrierlab-cli](https://github.com/casoon/barrierlab-cli) | A11y-Audit einer Seite aus dem Quelltext, ohne Browser |
 
 </details>
 
@@ -121,10 +127,11 @@ Alle Projekte mit Beschreibung und Links: **[casoon.dev](https://casoon.dev)**
 </details>
 
 <details>
-<summary><b>Demos, Beispiele & Konfiguration</b> (11)</summary>
+<summary><b>Demos, Beispiele & Konfiguration</b> (12)</summary>
 
 | Projekt | |
 |---|---|
+| [web-solarrechner](https://github.com/casoon/web-solarrechner) | Solarrechner für PV, Speicher, E-Auto und Wärmepumpe – [live](https://solarrechner.casoon.de) |
 | [skibidoo](https://github.com/casoon/skibidoo-docs) | E-Commerce-System: [core](https://github.com/casoon/skibidoo-core) · [admin](https://github.com/casoon/skibidoo-admin) · [storefront](https://github.com/casoon/skibidoo-storefront) · [ui](https://github.com/casoon/skibidoo-ui) |
 | [webspire-lab](https://github.com/casoon/webspire-lab) | Design-Lab und Vorlagen-Katalog |
 | [rechenkiste](https://github.com/casoon/rechenkiste) | Mathe-Übungs-App für die Grundschule (AHA-Stack) |
@@ -144,10 +151,9 @@ Alle Projekte mit Beschreibung und Links: **[casoon.dev](https://casoon.dev)**
 ### KI in meinem Workflow
 
 Mein Alltag:
-- **Claude Code** für Architekturentscheidungen, Refactoring, Code Reviews
-- **Cursor** für schnelles Prototyping und Exploration
-- **Lokale LLMs** (Ollama) für private/sensible Kontexte
-- **Prompt Engineering** als Fähigkeit, die man übt wie jede andere
+- **Claude Code und Codex** für Architekturentscheidungen, Refactoring, Code Reviews – mit gemeinsamer Baseline-Config ([ai-agent-config](https://github.com/casoon/ai-agent-config))
+- **Lokale LLMs** (Ollama, [llmux](https://github.com/casoon/llmux)) für private/sensible Kontexte
+- **Messen statt schätzen:** [agentmeter](https://github.com/casoon/agentmeter) zeigt, wo Kontext und Cache in Agent-Sessions verloren gehen
 
 KI-Output ist nur so gut wie der Kontext, den du lieferst. Wer blind übernimmt, baut Schulden auf. Wer iteriert und validiert, beschleunigt massiv.
 
@@ -155,12 +161,13 @@ KI-Output ist nur so gut wie der Kontext, den du lieferst. Wer blind übernimmt,
 
 ### Schreiben
 
-Auf [insights.casoon.de](https://insights.casoon.de) schreibe ich über Web-Entwicklung, KI-Integration und Cloud-Architektur – mit Fokus auf Dinge, die ich selbst im Einsatz habe. Darunter mehrteilige Serien, u. a. zu Mistral & Vibe CLI und zur Cloudflare-Architektur.
+Auf [insights.casoon.de](https://insights.casoon.de) schreibe ich über Web-Entwicklung, KI-Integration und Cloud-Architektur – mit Fokus auf Dinge, die ich selbst im Einsatz habe. Darunter mehrteilige Serien, u. a. [Das moderne Web unter der Haube](https://insights.casoon.de/serien/das-moderne-web-unter-der-haube/) und [SurrealDB in der Praxis](https://insights.casoon.de/serien/surrealdb-in-der-praxis/).
 
 ---
 
 ### Kontakt
 
+- **Projektanfragen:** [info@casoon.de](mailto:info@casoon.de)
 - **Web:** [casoon.de](https://casoon.de)
 - **Projekte:** [casoon.dev](https://casoon.dev)
 - **LinkedIn:** [linkedin.com/in/casoon](https://www.linkedin.com/in/casoon/)
