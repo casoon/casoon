@@ -2,10 +2,6 @@
 
 **Entwickler und Berater bei [CASOON](https://casoon.de)** · Webanwendungen, Edge-Infrastruktur und Rust-Tools – direkt, ohne Agentur-Layer
 
-🟢 **Verfügbar für neue Projekte** – Anfragen an [info@casoon.de](mailto:info@casoon.de)
-
-> *Freelance developer and consultant from Rostock, Germany: web applications, edge infrastructure and Rust tooling. Most of my open-source projects are documented in English – available for new projects, contact [info@casoon.de](mailto:info@casoon.de).*
-
 Ich baue seit über 20 Jahren Webanwendungen – mit einem Stack, der sich laufend verändert, und einer Arbeitsweise, die KI als festen Bestandteil einschließt. Nicht als Spielerei, sondern weil es verschiebt, wofür ich Zeit habe: weniger Boilerplate, mehr Architektur.
 
 Was sich nicht geändert hat: Ich mag Lösungen, die man in sechs Monaten noch versteht. Klare Strukturen, wenig Magie, keine Abhängigkeiten, die man nicht braucht.
